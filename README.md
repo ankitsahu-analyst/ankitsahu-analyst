@@ -1,6 +1,6 @@
 # Hi, I'm Ankit Sahu! 👋
 
-🎯 Aspiring Data Scientist from Indore, MP
+🎯 Aspiring Data Scientist from Raipur, CG
 📊 Currently learning: Excel → SQL → Python → ML
 🚀 Building real-world data projects
 💼 Open to Data Analyst internships & jobs
