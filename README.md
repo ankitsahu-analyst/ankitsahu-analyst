@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ankit Sahu! 👋
 
-<!--
-**ankitsahu-analyst/ankitsahu-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist from Indore, MP
+📊 Currently learning: Excel → SQL → Python → ML
+🚀 Building real-world data projects
+💼 Open to Data Analyst internships & jobs
 
-Here are some ideas to get you started:
+## 🛠️ Skills I'm Building
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+| Project | Tools | Week |
+|---------|-------|------|
+| Sales Data Analysis + PivotTables | Excel | Week 1 ✅ |
+
+📫 **Contact:** [your-email@gmail.com]
